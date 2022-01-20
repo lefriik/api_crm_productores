@@ -26,7 +26,7 @@ const Inicio = () => {
 
     if(confirmar) {
       try {
-        const url = `${import.meta.env.VITE_API_URL}/clientes/${id}`
+        const url = `${import.meta.env.VITE_API_URL}/${id}`
         const respuesta = await fetch(url, {
           method: 'DELETE'
         })
