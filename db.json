@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "emerio",
+      "empresa": "silicon valley",
+      "email": "emerio@lefriik.com",
+      "telefono": "56995675645",
+      "notas": "cdscdscs",
+      "id": 1
+    }
+  ]
+}
